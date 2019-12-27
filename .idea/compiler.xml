@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Maven_tou" />
+        <module name="shiro_dao" />
+        <module name="shiro_service" />
+        <module name="shiro_web" />
       </profile>
     </annotationProcessing>
   </component>
